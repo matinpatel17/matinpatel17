@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Matin Patel  
 
-<!--
-**matinpatel17/matinpatel17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 🔐 Cybersecurity Enthusiast | 💻 Aspiring IT Security Professional  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 📚 Currently pursuing **BCA in Cybersecurity**  
+- 🛡️ Interested in **IT Security, Ethical Hacking, and Cyber Defense**  
+- 🐚 Skilled in **Shell Scripting** for automation & security tasks  
+- 🌱 Always learning and exploring new security tools, concepts, and practices  
+
+---
+
+## 🛠️ Skills & Tools  
+- **Languages & Scripting:** Shell Scripting (Bash), Python (beginner)  
+- **Cybersecurity Interests:** System Hardening, Threat Analysis, Network Security  
+- **Operating Systems:** Linux (Ubuntu, Kali), Mac   
+
+---
+
+## 📂 Featured Projects  
+🔒 Coming soon! Currently working on Web Application Firewall.  
+
+---
+
+## 📫 Connect With Me  
+- 💼 [LinkedIn](linkedin.com/in/matinpatel17)   
+
+---
+
+⭐️ *"Security is not a product, but a process."* – Bruce Schneier  
